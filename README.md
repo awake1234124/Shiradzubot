@@ -1,0 +1,2 @@
+# Shiradzubot
+a cool bot
